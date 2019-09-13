@@ -37,7 +37,7 @@ Here is a what the data looks like
 
 Make the dashboard publicly accessible through a url.
 
-----
+---
 Thanks for taking the time interviewing at InTheMemory.
 
 Good luck!
