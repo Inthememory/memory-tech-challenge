@@ -24,7 +24,7 @@ Here is mockup of what it should look like:
 
 #### 💾  Data 
 
-Here is a what the data looks like
+Here is a what the [data](https://github.com/Inthememory/memory-tech-challenge/blob/master/memory-tech-challenge-data.csv.zip) looks like
 ![Data Schema](https://github.com/Inthememory/memory-tech-challenge/blob/master/data-schema.png)
 
 
