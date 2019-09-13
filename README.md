@@ -10,7 +10,7 @@ The page should have two blocks:
 ##### 1. Summary view
 This block should display the three following metrics:
 - Total revenue
-- Panier Moyen (Average revenue by order)
+- Average revenue per order
 - Number of unique customers
 
 ##### 2. Monthly view
