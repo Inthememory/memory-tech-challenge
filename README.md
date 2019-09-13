@@ -33,10 +33,12 @@ Here is a what the data looks like
 - Try to keep it simple.
 - Do not spend more than 8 hours on the challenge.
 
-Thanks for taking the time interviewing at InTheMemory.
-Good luck!
-
 #### 🎁 Bonus Point 
 
 Make the dashboard publicly accessible through a url.
+
+----
+Thanks for taking the time interviewing at InTheMemory.
+
+Good luck!
 
