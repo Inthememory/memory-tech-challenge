@@ -1,4 +1,4 @@
-## 🏆 Software Engineer Technical Challenge  
+## 🏆 Full-Stack Engineer Technical Challenge  
 
 #### 🎯 Goal
 
