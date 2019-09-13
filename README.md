@@ -3,7 +3,7 @@
 #### 🎯 Goal
 
 The goal of this challenge is to build a small e-commerce dashboard from sample order transactions. 
-The data is provided in this repository. The dashboard should be based off a web page that a user can visit and interact with. 
+The [data](https://github.com/Inthememory/memory-tech-challenge/blob/master/memory-tech-challenge-data.csv.zip) is provided in this repository. The dashboard should be based off a web page that a user can visit and interact with. 
 
 The page should have two blocks:
 
