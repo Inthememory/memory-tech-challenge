@@ -14,7 +14,7 @@ This block should display the three following metrics:
 - Number of unique customers
 
 ##### 2. Monthly view
-This block should a graph showing the evolution of total revenue by month.
+This block should be a graph showing the evolution of total revenue by month.
 
 
 We should be able to filter the entire dashboard by `Country`. (We should also be able to filter by `All`).
