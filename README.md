@@ -25,6 +25,7 @@ Here is mockup of what it should look like:
 #### 💾  Data 
 
 Here is a what the data looks like
+https://github.com/Inthememory/memory-tech-challenge/blob/master/data-schema.png
 
 #### ℹ️  Guidelines 
 
