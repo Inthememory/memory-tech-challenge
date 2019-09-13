@@ -20,7 +20,7 @@ This block should be a graph showing the evolution of total revenue by month.
 We should be able to filter the entire dashboard by `Country`. (We should also be able to filter by `All`).
 
 Here is mockup of what it should look like:
-![Mockup](https://github.com/Inthememory/memory-tech-challenge/blob/master/memory-tech-challenge-mockup.png)
+![Mockup](https://github.com/Inthememory/memory-tech-challenge/blob/master/mockup-tech-challenge-memory.png)
 
 
 #### 💾  Data 
