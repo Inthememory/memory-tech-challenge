@@ -1,48 +1,53 @@
-## 🏆 Full-Stack Engineer Technical Challenge  
+# 👩‍💻👨‍💻 Full-Stack Software Engineer Technical Test  
 
-#### 🎯 Goal
+With growing demands and cut-throat competitions in the market, a Superstore Giant is seeking your knowledge in understanding what works best for them. They would like to understand their key indicators through a web dashboard to get started.
 
-The goal of this challenge is to build a small e-commerce dashboard from sample order transactions. 
-The [data](https://github.com/Inthememory/memory-tech-challenge/blob/master/memory-tech-challenge-data.csv.zip) is provided in this repository. The dashboard should be based off a web page that a user can visit and interact with. 
+## 🎯 Your mission
 
-The page should have two blocks:
-
-##### 1. Summary view
-This block should display the three following metrics:
-- Total revenue
-- Average revenue per order
-- Number of unique customers
-
-##### 2. Monthly view
-This block should be a graph showing the evolution of total revenue by month.
-
-
-We should be able to filter the entire dashboard by `Country`. (We should also be able to filter by `All`).
+* You've been provided a dataset containing Superstore past years transactions
+* The client wants to work on three main metrics:
+  * Total revenue (`revenue`)
+  * Average revenue per order (`revenue_per_order`)
+  * Number of unique customers (`customers_count`)
+* The client wants to be able to check those metrics globally ("Total" filter) 
+* The client wants to check the metrics broken down by State (`state`) and by month of order date (`order_date`)
 
 Here is mockup of what it should look like:
 
-<img src="https://github.com/Inthememory/memory-tech-challenge/blob/master/mockup-tech-challenge-memory.png" width="400" height="400" />
+![dashboard mockup](mockup-tech-challenge-memory.png)
 
+### 💾 About the dataset
 
-#### 💾  Data 
+* The [sample dataset](dataset.csv) is provided in this repository
+* There are some [metadata provided](metadata.md), describing the attributes
 
-Here is a what the [data](https://github.com/Inthememory/memory-tech-challenge/blob/master/memory-tech-challenge-data.csv.zip) looks like
-![Data Schema](https://github.com/Inthememory/memory-tech-challenge/blob/master/data-schema.png)
+Here is a what the [dataset](dataset.csv) looks like![snapshot](data-schema.png)
 
+## 🧠 Guidelines 
 
-#### ℹ️  Guidelines 
+**We expect your code to be:**
 
-- Use whatever language/framework you want.
-- Please submit your project as a `git` repository (so please include the `.git` directory in the upload). Check in commits as you reach certain milestones. If you need to take a break, check in a commit with something like `Taking a break` followed by `Resuming work` when you are ready to begin again.
-- Try to keep it simple.
-- Do not spend more than 8 hours on the challenge.
+* **Maintainable**: simple, clean and easy to understand
+* **Performant**: it must be production-ready. Pay attention to your SQL queries, consider the complexity of your algorithm
 
-#### 🎁 Bonus Point 
+🎁 **Bonus points for:**
 
-Make the dashboard publicly accessible through a url.
+* Writing tests (well, we did say "production-ready")
+* Applying OOP best practices
+* Compute the evolution of each metric based on past year performance
+
+## How to hand in the test
+
+⚠️  **Please, DO NOT host your project on public repositories!** ⚠️ 
+
+We ask you to package your repository as a Git bundle before sending it back to us. Here is how to do it.
+
+1. `cd` into your code directory.
+1. Run `git bundle create memory-test.bundle HEAD master` (use your branch name if it differs from `master`).
+1. Finally, send us the `memory-test.bundle` file you just created at step 2.
 
 ---
-Thanks for taking the time interviewing at InTheMemory.
 
-Good luck!
+Thanks for taking the time interviewing at Memory!
 
+Good luck! 💪
