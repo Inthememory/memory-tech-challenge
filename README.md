@@ -21,7 +21,7 @@ Here is mockup of what it should look like:
 * The [sample dataset](dataset.csv) is provided in this repository
 * There are some [metadata provided](metadata.md), describing the attributes
 
-Here is a what the [dataset](dataset.csv) looks like![snapshot](data-schema.png)
+Here is a snippet of what the [dataset](dataset.csv) looks like![snapshot](data-schema.png)
 
 ## 🧠 Guidelines 
 
