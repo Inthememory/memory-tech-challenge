@@ -32,9 +32,9 @@ Here is a snippet of what the [dataset](dataset.csv) looks like![snapshot](data-
 
 🎁 **Bonus points for:**
 
-* Writing tests (well, we did say "production-ready")
+* Tests (well, we did say "production-ready")
 * Applying OOP best practices
-* Compute the evolution of each metric based on past year performance
+* Add a second primary dimension `year` (as a select) and display the evolution from N-1 on each metric
 
 ## How to hand in the test
 
